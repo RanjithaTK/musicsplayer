@@ -156,6 +156,7 @@ i.fa-step-backward {
   50% {
     height: 20%;
     background: #4286f4;
+    /* background: #4286f4; */
   }
   100% {
     height: 100%;
@@ -163,7 +164,7 @@ i.fa-step-backward {
 }
 .stroke:nth-child(1) {
   animation-delay: 0s;
-  flex-direction: re
+  flex-direction: re;
 }
 .stroke:nth-child(2) {
   animation-delay: 0.3s;
